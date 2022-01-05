@@ -132,3 +132,15 @@ utterances:
 # Version
 # ===========================================
 version: 2.11.1
+
+
+cv:
+  languages:
+   - javascript
+   - typescript
+   - python
+   - ruby
+   - lua
+  
+  email: chuliang2013@gmail.com
+   
