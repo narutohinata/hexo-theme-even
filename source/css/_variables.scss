@@ -91,6 +91,13 @@ $header-padding: 20px 20px !default;
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'Menlo';
+  src: url('../fonts/menlo/Menlo-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
 // Font size of the logo.
 $logo-font-size: 48px !default;
 
